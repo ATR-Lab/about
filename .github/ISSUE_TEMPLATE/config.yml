@@ -1,0 +1,7 @@
+# Template chooser for this repository.
+# Docs: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+blank_issues_enabled: true
+contact_links:
+  - name: Advanced Telerobotics Research Lab website
+    url: https://www.atr.cs.kent.edu/
+    about: News, programs and contact details for the lab at Kent State University.

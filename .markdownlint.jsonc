@@ -1,0 +1,20 @@
+// markdownlint rules for ATR Lab docs (https://github.com/DavidAnson/markdownlint)
+{
+  "default": true,
+  // Long lines are fine in prose; editors wrap them.
+  "MD013": false,
+  // READMEs open with an HTML header image instead of a "# Heading".
+  "MD041": false,
+  // HTML is allowed only for layout GitHub supports: centered headers, card grids, collapsible sections.
+  "MD033": {
+    "allowed_elements": ["p", "img", "a", "b", "br", "sub", "sup", "table", "tr", "td", "th", "thead", "tbody", "picture", "source", "details", "summary", "kbd", "div"]
+  },
+  // Repeated headings are fine in different sections (e.g. "Safety" under each robot).
+  "MD024": { "siblings_only": true },
+  // Numbered lists may use 1. 2. 3. or all 1.
+  "MD029": false,
+  // Table pipe spacing is cosmetic; "|---|" and "| --- |" are both fine.
+  "MD060": false,
+  // Emphasis used as a label ("**Read this when** ...") is not a heading.
+  "MD036": false
+}
