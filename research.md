@@ -1,6 +1,6 @@
 # Research
 
-> **Read this when** you need to explain what the Advanced Telerobotics Research Lab works on, which robots it uses or which projects are current and which are past.
+> **Read this when** you need to explain what the Advanced Telerobotics Research Laboratory works on, which robots it uses or which projects are current and which are past.
 
 The lab started with telepresence: robots that people operate from somewhere else and feel present in. It is now moving toward Physical AI: robots that sense, decide and act in the real world alongside people. This page covers that direction, the four message pillars with their proof points, current projects, platforms, past work with years and the programs that bring students in. Remember one rule: label past projects as past, with their years.
 
@@ -42,7 +42,7 @@ Everything the lab publishes should serve one of these pillars. Proof points use
 |---|---|---|
 | **1. Extending human presence** | Robots people operate and inhabit at a distance: telepresence, tele-embodiment, immersive VR and AR teleoperation | TeleBot-2 (World Robot Summit 2018); TeleBot-3R (the lab's World Robot Summit 2021 robot); TeleBot-4R and its Meta Quest XR interface (2023 to 2024); AARON, an AR system for NASA SUITS (selected as one of the top 10 teams for the onsite challenge in 2020; second generation built by the ATR_FLUX team in 2023); Telesuit (2019) |
 | **2. Physical AI that works with people** | Robots that sense, decide and act in real settings alongside people: service robots, social robots, humanoids | VendoBot (HRI 2026 Companion, Edinburgh, March 2026); Coffee Buddy; PepperKit (Pepper with a realtime LLM voice agent); Expressive Motion on a Booster K1 (2026); Physical AI Agent courses; the "Physical AI Coworker" internship project |
-| **3. Learning by building** | Students at every level do real research on real hardware and test it in competition | Undergraduate and graduate robotics courses; selected as one of 11 finalists in the World Robot Summit Plant Disaster Prevention Challenge (2021); selected as one of the top 10 teams for the onsite NASA SUITS challenge (2020); paper awards (IHCI 2020, IEMTRONICS 2020, IHCI 2023); hackathon results (2019); students from computer science to biomedical engineering and philosophy |
+| **3. Learning by building** | Students at every level do real research on real hardware and test it in competition | Undergraduate and graduate robotics courses; selected as one of 11 finalists in the World Robot Summit Plant Disaster Prevention Challenge (2021); selected as one of the top 10 teams for the onsite NASA SUITS challenge (2020); paper awards (IHCI 2020, IEMTRONICS 2020, World Robot Summit 2021, IHCI 2023); hackathon results (2019); students from computer science to biomedical engineering and philosophy |
 | **4. The next generation of innovators** | Hands-on robotics and Physical AI for middle and high school students and their teachers | 2025 and 2026 summer research internships; 2026 Summer Workshop; K-12 school workshops (2021, 2022); National Robotics Week open house (2019); partner lab in PRIDe, an NSF-funded K-12 computer science education project [confirm current role before use]; research on outreach (Cascade Mentoring, IHCI 2023) |
 
 Plain terms used above: VR (virtual reality) is a fully digital view; AR (augmented reality) lays digital information over the real world; XR (extended reality) covers both. A humanoid is a robot shaped roughly like a person; a service robot does a job for people, such as delivering items.
@@ -98,8 +98,8 @@ These are finished. Describe them in the past tense, with their years.
 | TeleBot-2 | 2018 | The TeleBot generation the lab demonstrated at the World Robot Summit in Tokyo (Plant Disaster Prevention Challenge) |
 | Telesuit | 2019 | An immersive telepresence control suit, built with Kent State's Fashion School and its TechStyle Lab (2019 papers) |
 | AARON for NASA SUITS | 2020, 2023 | An AR system for spacesuit operations. In 2020 a lab team was selected as one of the top 10 teams for the onsite NASA SUITS challenge; in 2023 the lab's ATR_FLUX team built the second generation |
-| RoboCup 2023 teams | 2023 | The lab formed teams for RoboCup 2023 (RoboCup Rescue; RoboCup@Home Social Standard Platform League with Pepper) |
-| Gesture-Enabled Telepresence Robot | [years] | [one-line description from the director] |
+| RoboCup 2023 teams | 2023 | The lab formed teams for RoboCup 2023 (RoboCup Rescue; RoboCup@Home Social Standard Platform League with Pepper). The ATR_Kent team submitted a team description paper for the RoboCupRescue Robot League on TeleBot-3R ([RoboCup TDP archive](https://tdp.robocup.org/tdp/2023-tdp-atr_kent-robocuprescue-robot/)) |
+| Gesture-Enabled Telepresence Robot (Gesture2Game) | [years] | A vision-based system that replaces game controllers with hand and body gestures: YOLOv8 finds each player, MediaPipe reads the gesture and OSNet re-identification keeps track of who is who. The lab connected it to a retro arcade console |
 | MOVR | [years] | [one-line description from the director] |
 
 > [!IMPORTANT]
@@ -131,4 +131,4 @@ The lab publishes code on GitHub as [ATR-Lab](https://github.com/ATR-Lab) (55 pu
 - [getting-started-atr-lab](https://github.com/ATR-Lab/getting-started-atr-lab): onboarding, lab rules and safety
 - [all-things-ros2](https://github.com/ATR-Lab/all-things-ros2): ROS 2 guides for the lab's robots
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/research.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/research.md)</sub>

@@ -1,6 +1,6 @@
 # Publications
 
-> **Read this when** you need to cite the Advanced Telerobotics Research Lab's work, list its papers on a slide or in a grant, or check which paper received which award.
+> **Read this when** you need to cite the Advanced Telerobotics Research Laboratory's work, list its papers on a slide or in a grant, or check which paper received which award.
 
 This page lists the lab's latest verified paper, the papers behind its awards and a selected list from the lab website, all in IEEE citation style. The full list lives on the [lab website's publications page](https://www.atr.cs.kent.edu/research/publications/). Before you cite anything, open its DOI: the publisher's record wins over any list, including this one.
 
@@ -27,7 +27,7 @@ Award names use the lab's verified wording. Paper titles are as listed on the la
 | Best Conference Paper Award, IHCI 2020 | "AARON: Assistive Augmented Reality Operations and Navigation System for NASA's Exploration Extravehicular Mobility Unit (xEMU)" | 10.1007/978-3-030-68452-5_42 |
 | Best Paper, Robotics Track, IEMTRONICS 2020 | "Large Scale Distributed Data Processing for a Network of Humanoid Telepresence Robots" | 10.1109/IEMTRONICS51293.2020.9216366 |
 | Special Session Best Award, IHCI 2023 (not "Best Paper at IHCI") | "PPHR: A Personalized AI System for Proactive Robots" | 10.1007/978-3-031-53827-8_24 |
-| Distinguished Paper Award, World Robot Summit, 2021 [confirm exact award name, paper and recipients] | [paper title, to be confirmed by the director] | [DOI] |
+| Distinguished Paper Award, World Robot Summit Plant Disaster Prevention Challenge (remote participation), 2021, awarded to the ATR_Kent team ([WRS results release, Dec. 24, 2021](https://wrs.nedo.go.jp/en/news/pdf/20211224release-en.pdf)) | [paper title, to be confirmed by the director] | [DOI] |
 
 IHCI is the International Conference on Intelligent Human-Computer Interaction; IEMTRONICS is the IEEE International IOT, Electronics and Mechatronics Conference.
 
@@ -93,4 +93,4 @@ These entries were left out because the lab website and the DOI record disagree.
 - [Press kit](press-kit/README.md): material for reporters
 - [dev-guidelines](https://github.com/ATR-Lab/dev-guidelines): the lab's writing and development conventions
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/publications.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/publications.md)</sub>

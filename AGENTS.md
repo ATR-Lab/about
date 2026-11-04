@@ -1,6 +1,6 @@
 # AGENTS.md: about
 
-This repository is the public profile of the Advanced Telerobotics Research Lab (Department of Computer Science, Kent State University, GitHub org `ATR-Lab`): what the lab is, its research, its dated achievements, its publications, a press kit for media and its member list, including the GitHub issue form members use to submit their own profile. People (students, visitors, reporters, Kent State editors) and coding agents both read it. It is **not** the lab website ([www.atr.cs.kent.edu](https://www.atr.cs.kent.edu/)), not an onboarding or safety guide (that is `getting-started-atr-lab`) and not a place for unverified claims: every lab fact here must trace to the lab's verified fact base or a linked source.
+This repository is the public profile of the Advanced Telerobotics Research Laboratory (Department of Computer Science, Kent State University, GitHub org `ATR-Lab`): what the lab is, its research, its dated achievements, its publications, a press kit for media and its member list, including the GitHub issue form members use to submit their own profile. People (students, visitors, reporters, Kent State editors) and coding agents both read it. It is **not** the lab website ([www.atr.cs.kent.edu](https://www.atr.cs.kent.edu/)), not an onboarding or safety guide (that is `getting-started-atr-lab`) and not a place for unverified claims: every lab fact here must trace to the lab's verified fact base or a linked source.
 
 ## Repo map
 
@@ -49,7 +49,7 @@ This repository is the public profile of the Advanced Telerobotics Research Lab 
 
 - Voice: precise, curious, hands-on, welcoming, grounded. Write for a smart first-year student; define jargon on first use (Physical AI = "AI that senses and acts in the real world through a robot").
 - Kent State style: sentence-case headings, no Oxford comma in a simple series, "and" not "&" in prose, one through nine spelled out, dates like "Sept. 30, 2026", phone "330-672-9980", no exclamation marks, no emoji.
-- Names: "Advanced Telerobotics Research Lab" on first reference, then "the lab"; "ATR Lab" only in display and tight space on a piece that names Kent State. "Jong-Hoon Kim, associate professor of computer science", then "Kim"; no "Dr.". The round emblem is the "roundel", never a seal.
+- Names: "Advanced Telerobotics Research Laboratory" on first reference, then "the lab"; "ATR Lab" only in display and tight space on a piece that names Kent State. "Jong-Hoon Kim, associate professor of computer science", then "Kim"; no "Dr.". The round emblem is the "roundel", never a seal.
 - Words: ROS 2 (never "ROS2" in prose), teleoperation, telepresence, tele-embodiment, human-robot interaction, open-source (adjective), real-world (adjective), advisor, leader-follower; robots are "it".
 - Cut hype: cutting-edge, state-of-the-art, revolutionary, groundbreaking, world-class, innovative, novel, leverage, utilize, seamless, robust, holistic, transformative, pivotal, delve, furthermore, moreover. Quoted text and paper titles keep their original words.
 - Never upgrade a result. A finalist is not a winner; a selection is not a placement; a special-session award is not a conference best paper.
@@ -95,17 +95,12 @@ Placeholders in this repository, by file. Only the people named can fill them; a
 
 | File | Placeholder | Who can fill it |
 |---|---|---|
-| `README.md` | `[###]` (lab room, Mathematical Sciences Building) | Director or lab manager |
-| `README.md` | `[Lab phone]` | Director or lab manager |
 | `README.md`, `press-kit/README.md`, `press-kit/fact-sheet.md` | `[UCM contact]` (media relations contact to print) | Director, with UCM |
 | `README.md` | `[program kent.edu address]` | Director |
-| `README.md`, `press-kit/fact-sheet.md` | `[canonical LinkedIn URL]` (two LinkedIn pages exist; pick one) | Director |
 | `README.md` | `[Giving URL: confirm designation]` | Director, with Kent State's Division of Philanthropy and Alumni Engagement |
-| `press-kit/fact-sheet.md` | `[###]` (lab room) | Director or lab manager |
 | `research.md`, `achievements.md` | `[confirm current role before use]` (NSF PRIDe) | Director |
-| `achievements.md`, `publications.md` | `[confirm exact award name, paper and recipients]` (World Robot Summit paper award, 2021) | Director |
 | `publications.md` | `[paper title, to be confirmed by the director]`, `[DOI]` (same award) | Director |
-| `research.md` | `[years]` and `[one-line description from the director]` for the Gesture-Enabled Telepresence Robot and MOVR | Director |
+| `research.md` | `[years]` for the Gesture-Enabled Telepresence Robot (Gesture2Game); `[years]` and `[one-line description from the director]` for MOVR | Director; Irvin Steve Cardenas (MOVR) |
 | `research.md` | `[to be announced]` (2026 Summer Workshop details) | Director or program lead |
 | `press-kit/README.md` | `[to be supplied]`: director headshot, photos, b-roll, coverage entries | Director; lab members; whoever handles communications |
 | `press-kit/README.md` | `[lab manager name]` (collects photo releases) | Director |

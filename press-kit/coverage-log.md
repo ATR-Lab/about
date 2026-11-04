@@ -1,6 +1,6 @@
 # Coverage log
 
-> **Read this when** a story about the Advanced Telerobotics Research Lab appears in the news, on a Kent State channel or on a podcast, or when you report on the lab's outreach.
+> **Read this when** a story about the Advanced Telerobotics Research Laboratory appears in the news, on a Kent State channel or on a podcast, or when you report on the lab's outreach.
 
 One row per story, newest first. The log shows reporters what has already been covered and shows the lab which stories led to inquiries or applications. No entries are recorded yet.
 
@@ -34,4 +34,4 @@ One row per story, newest first. The log shows reporters what has already been c
 - [Achievements](../achievements.md): the results a story may cite, in their allowed wording
 - [Fact sheet](fact-sheet.md): what to send a reporter who asks for facts
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/coverage-log.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/coverage-log.md)</sub>

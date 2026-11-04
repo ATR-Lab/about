@@ -4,7 +4,7 @@
 # The field ids below are the keys a maintainer or agent copies into members/profiles/<first-last>.md
 # (see members/README.md, "Profile file format").
 name: Member profile
-description: Lab members, 18 or older, submit or update their profile for the Advanced Telerobotics Research Lab member list.
+description: Lab members, 18 or older, submit or update their profile for the Advanced Telerobotics Research Laboratory member list.
 title: "Member profile: "
 labels: ["member-profile"]
 body:
@@ -104,7 +104,7 @@ body:
       label: Short bio
       description: |
         50 to 80 words, in the third person. Kent State style: your full name first, then your last name; no "Dr."; no comma before "and" in a simple list ("Python, C++ and ROS 2"); titles lowercase after your name. No results or awards unless they have a public source.
-      placeholder: Firstname Lastname is a Ph.D. student in computer science at Kent State University and a member of the Advanced Telerobotics Research Lab. Lastname works on ...
+      placeholder: Firstname Lastname is a Ph.D. student in computer science at Kent State University and a member of the Advanced Telerobotics Research Laboratory. Lastname works on ...
     validations:
       required: true
 
@@ -133,7 +133,7 @@ body:
       label: Consent (required)
       description: The lab lists members only with their written permission. Ticking these boxes is that permission.
       options:
-        - label: I consent to the Advanced Telerobotics Research Lab publishing my name and the information in this form on its public member page.
+        - label: I consent to the Advanced Telerobotics Research Laboratory publishing my name and the information in this form on its public member page.
           required: true
         - label: I am 18 or older.
           required: true

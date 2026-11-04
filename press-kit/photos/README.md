@@ -1,6 +1,6 @@
 # Photos
 
-> **Read this when** you add a photo or video to the press kit, or a reporter asks for images of the Advanced Telerobotics Research Lab.
+> **Read this when** you add a photo or video to the press kit, or a reporter asks for images of the Advanced Telerobotics Research Laboratory.
 
 The press kit needs 6 to 10 approved photos and 1 to 3 minutes of b-roll (clean background footage). None is here yet: **[to be supplied]**. A photo goes in only when it has a caption, alt text, a credit and a release on file. When in doubt about consent, leave the photo out.
 
@@ -72,4 +72,4 @@ Store b-roll where the lab keeps large media [b-roll storage location] and link 
 - [Logos](../logos/README.md): the logo files and their rules
 - [Members](../../members/README.md): member consent and profiles
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/photos/README.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/photos/README.md)</sub>

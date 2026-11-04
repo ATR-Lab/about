@@ -1,6 +1,6 @@
 # Members
 
-> **Read this when** you want to know who is in the Advanced Telerobotics Research Lab, you are a member who wants to be listed, or you maintain the member list.
+> **Read this when** you want to know who is in the Advanced Telerobotics Research Laboratory, you are a member who wants to be listed, or you maintain the member list.
 
 Members list themselves: each person submits a short GitHub form, the lab lead reviews it, and the approved profile becomes a file in [profiles/](profiles/) plus a row in the tables below. Nobody is listed without their own written permission, and nobody under 18 is ever listed by name.
 
@@ -20,7 +20,7 @@ Members list themselves: each person submits a short GitHub form, the lab lead r
 
 | Name | Title | Education | Profile |
 |---|---|---|---|
-| Jong-Hoon Kim | Associate professor of computer science; director of the Advanced Telerobotics Research Lab | Ph.D., Louisiana State University | [Kent State profile](https://www.kent.edu/cs/jong-hoon-kim) |
+| Jong-Hoon Kim | Associate professor of computer science; director of the Advanced Telerobotics Research Laboratory | Ph.D., Louisiana State University | [Kent State profile](https://www.kent.edu/cs/jong-hoon-kim) |
 
 ## Current members
 
@@ -63,7 +63,7 @@ Subject: Add your profile to the lab's member page
 
 Hi everyone,
 
-We are rebuilding the Advanced Telerobotics Research Lab's member page on GitHub, and we would like to list you, with your permission.
+We are rebuilding the Advanced Telerobotics Research Laboratory's member page on GitHub, and we would like to list you, with your permission.
 
 Please fill in this short form by [date]:
 https://github.com/ATR-Lab/about/issues/new?template=member-profile.yml
@@ -99,7 +99,7 @@ Thanks,
 Issues from the form carry the `member-profile` label. GitHub turns each form field into a `### Label` heading followed by the answer; empty optional fields read `_No response_`, and ticked boxes read `- [X]`.
 
 1. **Check the issue before anything else.**
-   - Both required consent boxes are ticked: "I consent to the Advanced Telerobotics Research Lab publishing my name..." and "I am 18 or older." If either is missing, don't add the person; comment and ask.
+   - Both required consent boxes are ticked: "I consent to the Advanced Telerobotics Research Laboratory publishing my name..." and "I am 18 or older." If either is missing, don't add the person; comment and ask.
    - The person is not a high school intern and is not under 18. If in doubt, don't add them; ask the director.
    - Nothing private is in the issue (phone number, ID number, home address). If there is, edit the issue to remove it and tell the member.
    - The bio is 50 to 80 words, third person, Kent State style (full name first, then last name; no "Dr."; no Oxford comma; titles lowercase after the name). Make small style edits yourself; ask the member before changing meaning.
@@ -144,7 +144,7 @@ source_issue: 0                   # number of the issue the profile came from
 approved_on: "2026-10-01"         # date the lab lead approved it (YYYY-MM-DD)
 ---
 
-Firstname Lastname is a Ph.D. student in computer science at Kent State University and a member of the Advanced Telerobotics Research Lab. Lastname works on ...
+Firstname Lastname is a Ph.D. student in computer science at Kent State University and a member of the Advanced Telerobotics Research Laboratory. Lastname works on ...
 ```
 
 Rules for the file:
@@ -162,4 +162,4 @@ Rules for the file:
 - [Press kit](../press-kit/README.md): the director bio template
 - [getting-started-atr-lab](https://github.com/ATR-Lab/getting-started-atr-lab): onboarding for new members
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/members/README.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/members/README.md)</sub>

@@ -1,6 +1,6 @@
 # Fact sheet
 
-> **Read this when** you need a verified fact about the Advanced Telerobotics Research Lab for a story, a program, an introduction or a grant.
+> **Read this when** you need a verified fact about the Advanced Telerobotics Research Laboratory for a story, a program, an introduction or a grant.
 
 Every fact on this page comes from the lab's verified brand fact base (checked Sept. 28, 2026) or from a source linked next to it and checked Sept. 30, 2026. There are deliberately no headcounts, publication counts or funding totals: none is sourced and dated. If a fact you need is not here, ask the lab rather than copying it from an older page.
 
@@ -18,7 +18,7 @@ Every fact on this page comes from the lab's verified brand fact base (checked S
 
 | Fact | Value |
 |---|---|
-| Name, running copy | Advanced Telerobotics Research Lab on first reference (add "at Kent State University" if the university is not named yet), then "the lab" |
+| Name, running copy | Advanced Telerobotics Research Laboratory on first reference (add "at Kent State University" if the university is not named yet), then "the lab" |
 | Name, formal | Advanced Telerobotics Research Laboratory (certificates, plaques, formal titles) |
 | Name, display only | ATR Lab (headlines, logos, handles, tight space), always on a piece that also names Kent State |
 | Home | Department of Computer Science, College of Sciences and Humanities, Kent State University, Kent, Ohio |
@@ -81,12 +81,13 @@ Use this wording exactly. Sources are on the [achievements](../achievements.md) 
 | Director | Jong-Hoon Kim, [jkim72@kent.edu](mailto:jkim72@kent.edu) |
 | Mailing address | Department of Computer Science, 241 Mathematical Sciences Building, 1300 Lefton Esplanade, Kent, OH 44242-0001 |
 | Department of Computer Science | 330-672-9980 (the department's main office, not a lab line) |
-| Lab location | Mathematical Sciences Building, Room [###]. Visits by appointment |
+| Lab location | Mathematical Sciences Building, Room 236. Visits by appointment |
+| Director's office phone | 330-672-9060 (Jong-Hoon Kim's office line) |
 | X | [@atrlab_kent](https://x.com/atrlab_kent) |
 | Instagram | [@atr_lab](https://www.instagram.com/atr_lab/) |
 | YouTube | [Advanced Telerobotics Research Laboratory channel](https://www.youtube.com/@advancedteleroboticsresear8565) |
 | GitHub | [ATR-Lab](https://github.com/ATR-Lab) (55 public repositories, counted Sept. 30, 2026) |
-| LinkedIn | [canonical LinkedIn URL] |
+| LinkedIn | [Advanced Telerobotics Research Laboratory on LinkedIn](https://www.linkedin.com/company/advanced-telerobotics-research-laboratory) |
 
 ## Related
 
@@ -95,4 +96,4 @@ Use this wording exactly. Sources are on the [achievements](../achievements.md) 
 - [Research](../research.md): projects and platforms in more depth
 - [Press kit](README.md): the full kit
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/fact-sheet.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/fact-sheet.md)</sub>

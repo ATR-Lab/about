@@ -1,6 +1,6 @@
 # Logos
 
-> **Read this when** you need the Advanced Telerobotics Research Lab's logo for a story, a program, a slide or a partner page, or you want to check that someone used it correctly.
+> **Read this when** you need the Advanced Telerobotics Research Laboratory's logo for a story, a program, a slide or a partner page, or you want to check that someone used it correctly.
 
 This folder holds six ATR logo files, each as a 3000 px PNG master (transparent background) and a vector SVG. Use the files as they are: never redraw, retype, recolor, stretch or rotate them. The Kent State University wordmark is **not** included; get the official file from [kent.edu/brand/logos](https://www.kent.edu/brand/logos).
 
@@ -86,9 +86,9 @@ Lab pieces carry the Kent State logo as a **separate signature**. The two logos 
 
 | File | Alt text |
 |---|---|
-| Horizontal | Advanced Telerobotics Research Lab, Department of Computer Science, Kent State University |
-| Horizontal-short, stacked, mark | Advanced Telerobotics Research Lab (add ", Kent State University" when nothing else on the piece says it) |
-| A linked logo | Describe the destination: "Advanced Telerobotics Research Lab home" |
+| Horizontal | Advanced Telerobotics Research Laboratory, Department of Computer Science, Kent State University |
+| Horizontal-short, stacked, mark | Advanced Telerobotics Research Laboratory (add ", Kent State University" when nothing else on the piece says it) |
+| A linked logo | Describe the destination: "Advanced Telerobotics Research Laboratory home" |
 
 > [!IMPORTANT]
 > Kent State's brand rules do not say whether a research lab may use its own mark next to university identity. The lab recommends a review by Kent State University Communications and Marketing (UCM) before public use of the ATR mark beside Kent State marks. Merchandise and giveaways with ATR or Kent State marks always need UCM approval and a licensed vendor.
@@ -99,4 +99,4 @@ Lab pieces carry the Kent State logo as a **separate signature**. The two logos 
 - [Photos](../photos/README.md): requirements for approved photos
 - [atr-lab-design-skill](https://github.com/ATR-Lab/atr-lab-design-skill): the lab's design system (a Claude skill), with every logo variant and the brand rules behind this note
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/logos/README.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/logos/README.md)</sub>

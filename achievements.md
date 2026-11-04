@@ -1,6 +1,6 @@
 # Achievements
 
-> **Read this when** you mention any result of the Advanced Telerobotics Research Lab: in a news post, a slide, a grant, a bio, a caption or this repo.
+> **Read this when** you mention any result of the Advanced Telerobotics Research Laboratory: in a news post, a slide, a grant, a bio, a caption or this repo.
 
 This page is the lab's timeline of results, each with the only wording we may print and the source that backs it. Copy the allowed wording exactly. Never upgrade a result: a finalist is not a winner, and a selection is not a placement. Items marked [confirm] need the director's confirmation before they go in print.
 
@@ -24,9 +24,9 @@ Newest first. Quotation marks in the "Allowed wording" column mark the exact wor
 | 2023 to 2027 | NSF PRIDe | "partner lab in PRIDe, an NSF-funded K-12 computer science education project" [confirm current role before use] | [NSF award 2300865](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300865) |
 | 2023 | NASA SUITS, second generation of AARON | "the lab's ATR_FLUX team built the second generation of AARON, an AR system for spacesuit operations" | [NASA SUITS 2023 project page](https://www.atr.cs.kent.edu/projects/nasa-suits-challenge-2023/) |
 | 2023 | Paper award | "Special Session Best Award, IHCI 2023" (not "Best Paper at IHCI") | [Lab publications page](https://www.atr.cs.kent.edu/research/publications/) |
-| 2023 | RoboCup teams | "formed teams for RoboCup 2023 (RoboCup Rescue; RoboCup@Home Social Standard Platform League with Pepper)". Earlier years only with the word "planned": "planned entries for RoboCup 2019 (Sydney) and 2022 (Thailand)" | [RoboCup 2023 project page](https://www.atr.cs.kent.edu/projects/robocup-2023/) |
+| 2023 | RoboCup teams | "formed teams for RoboCup 2023 (RoboCup Rescue; RoboCup@Home Social Standard Platform League with Pepper)". Earlier years only with the word "planned": "planned entries for RoboCup 2019 (Sydney) and 2022 (Thailand)". Also allowed: "the ATR_Kent team submitted a team description paper for the RoboCupRescue Robot League in 2023" (TeleBot-3R) | [RoboCup 2023 project page](https://www.atr.cs.kent.edu/projects/robocup-2023/); [RoboCup TDP archive](https://tdp.robocup.org/tdp/2023-tdp-atr_kent-robocuprescue-robot/) |
 | 2021 | World Robot Summit finalist (postponed from 2020) | "selected as one of 11 finalists in the World Robot Summit Plant Disaster Prevention Challenge"; "the only team from the United States, The Kent Stater reported" (always attribute this part) | [The Kent Stater, March 17, 2021](https://kentstater.com/2188/uncategorized/kent-state-advanced-telerobotic-research-team-to-compete-in-the-world-robot-summit/) |
-| 2021 | World Robot Summit paper award | "received a Distinguished Paper Award from the World Robot Summit" [confirm exact award name, paper and recipients] | [Director's page](https://www.cs.kent.edu/~jkim/) |
+| 2021 | World Robot Summit paper award | "the ATR_Kent team received the Distinguished Paper Award in the World Robot Summit Plant Disaster Prevention Challenge (remote participation)", announced Dec. 24, 2021. The award went to the team; name the paper only once the director confirms it | [WRS results release, Dec. 24, 2021](https://wrs.nedo.go.jp/en/news/pdf/20211224release-en.pdf); [director's page](https://www.cs.kent.edu/~jkim/) |
 | 2020 | NASA SUITS | "selected as one of the top 10 teams for the onsite NASA SUITS challenge" | [Lab news post](https://www.atr.cs.kent.edu/atr-accepted-for-nasa-suits-challenge/) |
 | 2020 | Paper awards | "Best Conference Paper Award, IHCI 2020" (AARON); "Best Paper, Robotics Track, IEMTRONICS 2020" | [Lab publications page](https://www.atr.cs.kent.edu/research/publications/) |
 | 2019, 2023 | Fashion School and TechStyle Lab collaborations | "worked with Kent State's Fashion School and its TechStyle Lab" on the Telesuit (2019 papers) and on NASA SUITS (2023). Past tense, with years | [Lab publications page](https://www.atr.cs.kent.edu/research/publications/), [NASA SUITS 2023 project page](https://www.atr.cs.kent.edu/projects/nasa-suits-challenge-2023/) |
@@ -40,7 +40,7 @@ Notes on the table:
 
 - **AR** (augmented reality) lays digital information over the real world. **NASA SUITS** is a NASA challenge for spacesuit interfaces.
 - For the 2020 NASA SUITS selection, write "competed at Johnson Space Center" only if the lab confirms the team traveled there.
-- For RoboCup 2023, write "competed at RoboCup 2023 in Bordeaux" only if the lab confirms the team attended.
+- For RoboCup 2023, write "competed at RoboCup 2023 in Bordeaux" only if the lab confirms the team attended. A team description paper is part of a league's qualification, not proof of attendance or of a result.
 - "1st" and "2nd" (no superscript) belong only in tables, badges and display type. In sentences write "first place" and "second place".
 - Credit hackathon and contest results to the team, the way the lab's post does. Name students only with their written permission.
 
@@ -100,4 +100,4 @@ Then:
 - [Press kit fact sheet](press-kit/fact-sheet.md): the short, verified version for media
 - [Boilerplates](press-kit/boilerplates.md): the 100-word version cites two of these results
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/achievements.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/achievements.md)</sub>

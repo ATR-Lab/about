@@ -1,19 +1,19 @@
 <p align="center">
-  <img src=".github/assets/header.png" alt="About the lab: Research, achievements, press kit and people. Advanced Telerobotics Research Lab, Kent State University." width="100%">
+  <img src=".github/assets/header.png" alt="About the lab: Research, achievements, press kit and people. Advanced Telerobotics Research Laboratory, Kent State University." width="100%">
 </p>
 
 <p align="center">
   <b>The lab's public profile: what we research, what we have achieved, what we publish, a press kit for reporters and the people in the lab.</b><br>
-  <sub>Advanced Telerobotics Research Lab · Department of Computer Science · Kent State University</sub>
+  <sub>Advanced Telerobotics Research Laboratory · Department of Computer Science · Kent State University</sub>
 </p>
 
 <p align="center">
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-003976?style=flat-square"></a>
-  <a href="https://www.atr.cs.kent.edu/"><img alt="Advanced Telerobotics Research Lab, Kent State University" src="https://img.shields.io/badge/ATR_Lab-Kent_State-003976?style=flat-square"></a>
-  <img alt="Last reviewed Sept. 2026" src="https://img.shields.io/badge/last_reviewed-Sept._2026-4A5868?style=flat-square">
+  <a href="https://www.atr.cs.kent.edu/"><img alt="Advanced Telerobotics Research Laboratory, Kent State University" src="https://img.shields.io/badge/ATR_Lab-Kent_State-003976?style=flat-square"></a>
+  <img alt="Last reviewed Nov. 2026" src="https://img.shields.io/badge/last_reviewed-Nov._2026-4A5868?style=flat-square">
 </p>
 
-> The Advanced Telerobotics Research Lab at Kent State University is an innovation research laboratory focused on exploring the frontiers of telepresence robotics, tele-embodiment, autonomy and artificial intelligence.
+> The Advanced Telerobotics Research Laboratory at Kent State University is an innovation research laboratory focused on exploring the frontiers of telepresence robotics, tele-embodiment, autonomy and artificial intelligence.
 
 <sub>The lab's own published self-description, and the safe default whenever you need one sentence about the lab. Other lengths (most still drafts awaiting the director's approval) are in [press-kit/boilerplates.md](press-kit/boilerplates.md).</sub>
 
@@ -70,7 +70,7 @@
 
 | Item | Verified value |
 |---|---|
-| Name | Advanced Telerobotics Research Lab (formal: Advanced Telerobotics Research Laboratory). Short form in display only: ATR Lab |
+| Name | Advanced Telerobotics Research Laboratory, the official long form; then "the lab". Short form in display only: ATR Lab |
 | Home | Department of Computer Science, College of Sciences and Humanities, Kent State University, Kent, Ohio |
 | Founded | 2017 (the lab opened in spring 2017) |
 | Director | Jong-Hoon Kim, associate professor of computer science |
@@ -85,7 +85,7 @@ Each line uses the wording the lab may print. Sources and dates are on the [achi
 - **World Robot Summit, 2021:** A lab team was selected as one of 11 finalists in the World Robot Summit Plant Disaster Prevention Challenge, the only team from the United States, The Kent Stater reported.
 - **NASA SUITS, 2020:** A lab team was selected as one of the top 10 teams for the onsite NASA SUITS challenge.
 - **NASA SUITS, 2023:** The lab's ATR_FLUX team built the second generation of AARON, an AR system for spacesuit operations. (AR, augmented reality, lays digital information over the real world.)
-- **Paper awards:** Best Conference Paper Award, IHCI 2020 (AARON); Best Paper, Robotics Track, IEMTRONICS 2020; Special Session Best Award, IHCI 2023.
+- **Paper awards:** Distinguished Paper Award, World Robot Summit Plant Disaster Prevention Challenge (remote participation), awarded to the ATR_Kent team, 2021; Best Conference Paper Award, IHCI 2020 (AARON); Best Paper, Robotics Track, IEMTRONICS 2020; Special Session Best Award, IHCI 2023.
 - **World Robot Summit, 2018:** The lab demonstrated TeleBot-2 at the World Robot Summit in Tokyo.
 - **On campus:** The lab is a node of Kent State's Design Innovation Hub.
 - **Open source:** 55 public repositories on GitHub (ATR-Lab), counted Sept. 30, 2026.
@@ -114,8 +114,8 @@ Each line uses the wording the lab may print. Sources and dates are on the [achi
 | Website | [www.atr.cs.kent.edu](https://www.atr.cs.kent.edu/) |
 | Mailing address | Department of Computer Science, 241 Mathematical Sciences Building, 1300 Lefton Esplanade, Kent, OH 44242-0001 |
 | Department of Computer Science (main office, not a lab line) | 330-672-9980 · [office@cs.kent.edu](mailto:office@cs.kent.edu) |
-| Lab location | Mathematical Sciences Building, Room [###] (second floor). Visits by appointment |
-| Lab phone | [Lab phone] |
+| Lab location | Mathematical Sciences Building, Room 236 (second floor). Visits by appointment |
+| Director's office phone | 330-672-9060 (Jong-Hoon Kim's office line) |
 | Director | Jong-Hoon Kim, associate professor of computer science · [jkim72@kent.edu](mailto:jkim72@kent.edu) · [Kent State profile](https://www.kent.edu/cs/jong-hoon-kim) |
 | Lab email | [atrlab.kent@gmail.com](mailto:atrlab.kent@gmail.com). For recruiting, K-12 and sponsor questions: [program kent.edu address] |
 | Media | Kent State University media relations: [UCM contact]. See the [press kit](press-kit/README.md) |
@@ -123,7 +123,7 @@ Each line uses the wording the lab may print. Sources and dates are on the [achi
 | Instagram | [@atr_lab](https://www.instagram.com/atr_lab/) |
 | YouTube | [Advanced Telerobotics Research Laboratory channel](https://www.youtube.com/@advancedteleroboticsresear8565) |
 | GitHub | [ATR-Lab](https://github.com/ATR-Lab) |
-| LinkedIn | [canonical LinkedIn URL] |
+| LinkedIn | [Advanced Telerobotics Research Laboratory on LinkedIn](https://www.linkedin.com/company/advanced-telerobotics-research-laboratory) |
 | Giving | [Giving URL: confirm designation] |
 
 Items in `[brackets]` are not confirmed yet; please don't fill them in from other pages. See [AGENTS.md](AGENTS.md#open-items).
@@ -148,7 +148,7 @@ Items in `[brackets]` are not confirmed yet; please don't fill them in from othe
 
 ## License
 
-Text and code in this repository are released under the [MIT License](LICENSE). The names and logos of the Advanced Telerobotics Research Lab and Kent State University are trademarks and are not covered by that license.
+Text and code in this repository are released under the [MIT License](LICENSE). The names and logos of the Advanced Telerobotics Research Laboratory and Kent State University are trademarks and are not covered by that license.
 
 The logo files in [press-kit/logos/](press-kit/logos/README.md) are here so people can show the lab's mark correctly; follow the usage rules in that folder. The Kent State University wordmark is not included: get it from [kent.edu/brand/logos](https://www.kent.edu/brand/logos).
 
@@ -161,6 +161,6 @@ The logo files in [press-kit/logos/](press-kit/logos/README.md) are here so peop
   <a href="https://github.com/ATR-Lab/dev-guidelines">Dev guidelines</a> ·
   <a href="https://github.com/ATR-Lab/all-things-ros2">All things ROS 2</a> ·
   <a href="https://github.com/ATR-Lab">All repositories</a></sub><br>
-  <sub>Advanced Telerobotics Research Lab · Department of Computer Science · Kent State University ·
+  <sub>Advanced Telerobotics Research Laboratory · Department of Computer Science · Kent State University ·
   <a href="https://www.atr.cs.kent.edu/">www.atr.cs.kent.edu</a></sub>
 </p>

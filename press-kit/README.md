@@ -2,7 +2,7 @@
 
 **For interviews, contact Kent State University media relations at [UCM contact].**
 
-> **Read this when** a reporter, a Kent State editor, an event organizer or a partner asks for material about the Advanced Telerobotics Research Lab.
+> **Read this when** a reporter, a Kent State editor, an event organizer or a partner asks for material about the Advanced Telerobotics Research Laboratory.
 
 Kent State University Communications and Marketing (UCM) runs media relations for the university ([kent.edu/ucm/media-relations](https://www.kent.edu/ucm/media-relations)), so interview requests go through UCM, not straight to the lab. This kit gives UCM and reporters accurate, ready-to-use material: boilerplates, a fact sheet, a director bio template, logos and the rules for photos. Everything here uses only verified facts; anything still missing is marked [to be supplied].
 
@@ -52,7 +52,7 @@ Kent State University Communications and Marketing (UCM) runs media relations fo
 
 ## Rules for anyone using this kit
 
-- **Name the lab correctly.** "Advanced Telerobotics Research Lab" on first reference (add "at Kent State University" if the university is not named yet), then "the lab". "ATR Lab" only in headlines, logos, handles and other tight display space, and only on a piece that also names Kent State. Never "ATR" alone.
+- **Name the lab correctly.** "Advanced Telerobotics Research Laboratory" on first reference (add "at Kent State University" if the university is not named yet), then "the lab". "ATR Lab" only in headlines, logos, handles and other tight display space, and only on a piece that also names Kent State. Never "ATR" alone.
 - **Name the director correctly.** "Jong-Hoon Kim, associate professor of computer science", then "Kim". No "Dr." in news copy.
 - **Use results only in their allowed wording.** See [achievements.md](../achievements.md). A finalist is not a winner, and a selection is not a placement.
 - **Define Physical AI** in the body copy of general-audience pieces, before the boilerplate: "Physical AI (AI that senses and acts in the real world through a robot)".
@@ -74,4 +74,4 @@ Kent State University Communications and Marketing (UCM) runs media relations fo
 - [Publications](../publications.md): citable papers
 - [Members](../members/README.md): the director entry and member list
 
-<sub>Last reviewed: Sept. 30, 2026 · Sources checked on that date · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/README.md)</sub>
+<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/README.md)</sub>
