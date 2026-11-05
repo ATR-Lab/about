@@ -45,7 +45,7 @@ Kent State University Communications and Marketing (UCM) runs media relations fo
 | The UCM media relations contact to print in the top line: [UCM contact] | UCM, through the director |
 | Director bio brackets and a high-resolution headshot | The director |
 | Director approval of the draft one-liner, 25-, 50- and 100-word boilerplates and the social bio | The director |
-| 6 to 10 approved photos with captions, alt text, credits and releases | Lab members, with releases collected by [lab manager name] |
+| 6 to 10 approved photos with captions, alt text, credits and releases | Lab members, with releases collected by the lab manager (Marcus Arnett, <marnett5@kent.edu>) |
 | 1 to 3 minutes of labeled b-roll | Lab members |
 | Coverage log entries | Whoever handles the lab's communications |
 | UCM review of the ATR mark next to Kent State identity | The director, with UCM |
@@ -74,4 +74,4 @@ Kent State University Communications and Marketing (UCM) runs media relations fo
 - [Publications](../publications.md): citable papers
 - [Members](../members/README.md): the director entry and member list
 
-<sub>Last reviewed: Nov. 4, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/README.md)</sub>
+<sub>Last reviewed: Nov. 5, 2026 · Sources checked Sept. 30, 2026 · [Suggest a change](https://github.com/ATR-Lab/about/edit/master/press-kit/README.md)</sub>

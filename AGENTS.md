@@ -103,7 +103,6 @@ Placeholders in this repository, by file. Only the people named can fill them; a
 | `research.md` | `[years]` for the Gesture-Enabled Telepresence Robot (Gesture2Game); `[years]` and `[one-line description from the director]` for MOVR | Director; Irvin Steve Cardenas (MOVR) |
 | `research.md` | `[to be announced]` (2026 Summer Workshop details) | Director or program lead |
 | `press-kit/README.md` | `[to be supplied]`: director headshot, photos, b-roll, coverage entries | Director; lab members; whoever handles communications |
-| `press-kit/README.md` | `[lab manager name]` (collects photo releases) | Director |
 | `press-kit/director-bio.md` | `[areas from the approved CV]`, `[One verified recognition.]` | Director (approved CV) |
 | `press-kit/director-bio.md` | `[to be supplied]` (headshot), `[photographer or source]` | Director |
 | `press-kit/photos/README.md` | `[to be supplied]` (photos, photo log rows), `[b-roll storage location]` | Lab members; lab manager |
