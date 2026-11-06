@@ -1,0 +1,47 @@
+# Issue form: report a wrong fact, an outdated detail or a broken link in this repository.
+# Schema: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
+name: Docs fix
+description: Report a wrong fact, an outdated detail or a broken link on these pages.
+title: "Docs fix: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the lab's pages accurate. This issue is public, so don't include private information. To change or remove your own member profile, open a new issue that says so, or email the director.
+
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The file or link where you found the problem.
+      placeholder: achievements.md
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      options:
+        - A wrong or outdated fact
+        - A broken link
+        - A typo or style problem
+        - Something missing
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: Quote the current text, or paste the broken link.
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix and source
+      description: What it should say, and a public source that shows it (an official page, a DOI, a program listing). Facts about the lab change only with a source or the director's confirmation.

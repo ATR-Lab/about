@@ -1,0 +1,13 @@
+# Sites that block automated link checkers (403/999 to bots). Check these by hand when you edit them.
+^https://dl\.acm\.org/
+^https://doi\.org/10\.1145/
+^https://ieeexplore\.ieee\.org/
+^https://(www\.)?linkedin\.com/
+^https://(www\.)?researchgate\.net/
+^https://(www\.)?instagram\.com/
+^https://(www\.)?x\.com/
+^https://(www\.)?twitter\.com/
+^https://(www\.)?reddit\.com/
+^https://(www\.)?raspberrypi\.com/
+^https://forums\.raspberrypi\.com/
+^https://support\.unitree\.com/

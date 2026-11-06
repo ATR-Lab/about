@@ -1,0 +1,147 @@
+# Issue form: a lab member submits their own profile for members/README.md.
+# Schema: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
+# The `member-profile` label must exist in the repository; GitHub does not create it automatically.
+# The field ids below are the keys a maintainer or agent copies into members/profiles/<first-last>.md
+# (see members/README.md, "Profile file format").
+name: Member profile
+description: Lab members, 18 or older, submit or update their profile for the Advanced Telerobotics Research Laboratory member list.
+title: "Member profile: "
+labels: ["member-profile"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before you start
+
+        **This issue is public the moment you submit it.** Anyone on the internet can read it, including earlier versions if you edit it later. Share only what you are happy to see on the lab's public member page.
+
+        - **Never include** phone numbers, student or employee ID numbers, home addresses, your date of birth or anything else private.
+        - **Under 18? Do not use this form.** High school interns and anyone under 18 are never listed by name, so there is nothing to submit.
+        - Add your name after "Member profile: " in the title, for example "Member profile: Firstname Lastname".
+        - The lab lead reviews every submission before anything is published. You can ask for your profile to be changed or removed at any time by opening a new issue or emailing the director.
+
+  - type: input
+    id: name
+    attributes:
+      label: Name as it should be printed
+      description: Your full name exactly as you want it on the member page.
+      placeholder: Firstname Lastname
+    validations:
+      required: true
+
+  - type: input
+    id: preferred_name
+    attributes:
+      label: Preferred first name
+      description: Optional. Only if you go by a different first name day to day.
+      placeholder: Firstname
+
+  - type: input
+    id: pronouns
+    attributes:
+      label: Pronouns
+      description: Optional. Leave blank if you'd rather not say.
+      placeholder: she/her, he/him, they/them
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role in the lab
+      description: Pick the one that fits best right now. Alumni pick "Alumni".
+      options:
+        - Director
+        - Postdoctoral researcher
+        - Ph.D. student
+        - M.S. student
+        - Undergraduate researcher
+        - Visiting researcher
+        - Staff
+        - Alumni
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: program
+    attributes:
+      label: Program or major, and class year
+      description: Kent State style, for example "first-year student", never "freshman". Staff and visitors can write their home department or institution.
+      placeholder: Computer science, Ph.D., class of 2028
+
+  - type: input
+    id: start
+    attributes:
+      label: Start term and year
+      description: When you joined the lab.
+      placeholder: Fall 2025
+    validations:
+      required: true
+
+  - type: input
+    id: end
+    attributes:
+      label: End term and year (alumni only)
+      description: When you left the lab. Leave blank if you are a current member.
+      placeholder: Spring 2026
+
+  - type: textarea
+    id: interests
+    attributes:
+      label: Research interests
+      description: Three to five short phrases, separated by commas.
+      placeholder: Human-robot interaction, teleoperation, Physical AI
+
+  - type: textarea
+    id: projects
+    attributes:
+      label: Lab projects
+      description: The lab projects you work or worked on, named the way the lab names them (for example VendoBot, Coffee Buddy, PepperKit, Expressive Motion). Link only public repositories.
+      placeholder: PepperKit (2025 to present)
+
+  - type: textarea
+    id: bio
+    attributes:
+      label: Short bio
+      description: |
+        50 to 80 words, in the third person. Kent State style: your full name first, then your last name; no "Dr."; no comma before "and" in a simple list ("Python, C++ and ROS 2"); titles lowercase after your name. No results or awards unless they have a public source.
+      placeholder: Firstname Lastname is a Ph.D. student in computer science at Kent State University and a member of the Advanced Telerobotics Research Laboratory. Lastname works on ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Optional. One per line. Leave out any you don't want public.
+      value: |
+        GitHub:
+        Personal site:
+        Google Scholar:
+        ORCID:
+        LinkedIn:
+
+  - type: textarea
+    id: headshot
+    attributes:
+      label: Headshot
+      description: |
+        Optional. Drag and drop one image into this box. Square, at least 800 × 800 px, plain background, only you in the frame, JPG or PNG. The image becomes public as soon as you submit, so add it only if you also tick the photo consent box below.
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent (required)
+      description: The lab lists members only with their written permission. Ticking these boxes is that permission.
+      options:
+        - label: I consent to the Advanced Telerobotics Research Laboratory publishing my name and the information in this form on its public member page.
+          required: true
+        - label: I am 18 or older.
+          required: true
+
+  - type: checkboxes
+    id: photo_consent
+    attributes:
+      label: Photo consent (optional)
+      options:
+        - label: I consent to the lab publishing the headshot I attached above.
+          required: false

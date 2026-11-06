@@ -1,0 +1,37 @@
+name: docs
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  schedule:
+    - cron: "0 9 * * 1" # Mondays: catch links that rot over time
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdown:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: DavidAnson/markdownlint-cli2-action@v24
+        with:
+          globs: "**/*.md"
+
+  links:
+    name: Link check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      # Pull requests check only links to files in this repository (--offline), because links to other
+      # ATR-Lab repositories may point at pages that are merged later. Pushes and the weekly run check everything.
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --max-concurrency 8 --accept 200,206,429
+            ${{ github.event_name == 'pull_request' && '--offline' || '' }}
+            "**/*.md"
+          fail: true
